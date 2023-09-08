@@ -62,7 +62,6 @@ Cons:
 - Has you replace `git` with `gt` with a slightly different interface
 - Requires giving access to a third party
 - Only supports Github
-- Sounds like they require user-prefixes for branches
 
 ## `git-machete`
 
